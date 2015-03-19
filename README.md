@@ -4,8 +4,8 @@ The Case for Multimodal Virtual Environments in Multi-Agent Simulations
 Slides presented at workshop on **Multimodal Human-Agent Interfaces for Virtual
 Environments** at Macquarie University on 20 November 2014. 
 
-The slides can be downloaded in PDF format from
-[here](http://github.com/mikepsn/multimodal-environments/blob/master/mm-env.pdf). 
+The slides can be downloaded in PDF format from here:
+[Multimodal Virtual Environments in Multi-Agent Simulations (PDF)](http://github.com/mikepsn/multimodal-environments/blob/master/mm-env.pdf). 
 
 The repository also contains the LaTeX source used to generate the slides using
 the beamer presentation package. 
